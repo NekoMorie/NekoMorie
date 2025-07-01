@@ -1,4 +1,3 @@
-<!-- Banner atau Avatar (opsional, bisa diganti dengan gambar Anda)-->
 <!-- <p align="center">
   <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="120" alt="Avatar"/>
 </p> -->
@@ -54,4 +53,27 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NekoMorie&theme=radical" alt="GitHub Streak"/>
 </p>
 
-<!-- Ganti 'your-github-username' dengan username GitHub Anda -->
+---
+
+<p align="center">
+
+  <img src="https://lanyard.cnrad.dev/api/412564100422565898" alt="Discord Status"/>
+</p>
+
+<p align="center">
+  
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31vj2lm6taa3m2tixjdibo4srylm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=b14e4e" alt="Spotify Now Playing"/>
+  
+</p>
+
+##
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/pacman-contribution-graph.svg">
+</picture>
+
+###
